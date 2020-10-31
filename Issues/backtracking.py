@@ -1,6 +1,7 @@
 # Backtracking problems
 # Input: order arrangements of possibilities
 # Output: list contains of all possibilities
+# Author: minhnguyen
 
 
 def backtrack(order, letters_list):
