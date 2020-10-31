@@ -1,6 +1,7 @@
 # Concatenation problem
 # Input: two strings
 # Output: concat of two strings
+# Author: Minh Nguyen
 
 
 def concat(s1, s2):
